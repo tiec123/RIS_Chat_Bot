@@ -1,0 +1,14 @@
+langchain
+langchain_community
+langchain_core
+langgraph
+llama-cpp-python
+beautifulsoup4
+requests
+chromadb
+requests
+typing_extensions
+tiktoken
+gpt4all
+langchain_chroma
+pypdf
