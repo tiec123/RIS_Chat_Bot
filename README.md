@@ -36,8 +36,8 @@ You will need to create a **data** directory in the same directory you saved the
 ### Adding pdfs form UI
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d49d2d5c-f6a9-4764-b09e-2c28a494ed86" alt="Screenshot (15)" width="500" height="300">
-  <img src="https://github.com/user-attachments/assets/5405d9d8-2486-436f-82d7-5530425e1f42" alt="Screenshot (15)" width="500" height="300">
+  <img src="https://github.com/user-attachments/assets/d49d2d5c-f6a9-4764-b09e-2c28a494ed86" alt="Screenshot (15)" width="300" height="200">
+  <img src="https://github.com/user-attachments/assets/5405d9d8-2486-436f-82d7-5530425e1f42" alt="Screenshot (15)" width="300" height="200">
 </div>
 
 ### Adding URLs form UI
