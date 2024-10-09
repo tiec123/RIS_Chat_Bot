@@ -1,6 +1,6 @@
 # RIS_Chat_Bot
 
-RIS chat bot is a Llama based AI assistant that is designed to be implemented in the Radiology Information System (RIS) developed by TIEC (Pvt.) Ltd. This application uses a quantized model (model quantization) of Llama 3.1 (model link) coupled with Retrieval Augmented Generation (RAG) to specialize the application in specific subjects. 
+RIS chat bot is a Llama based AI assistant that is designed to be implemented in the Radiology Information System (RIS) developed by TIEC (Pvt.) Ltd. This application uses a quantized model (model quantization) of Llama 3.1 (model link) coupled with Retrieval Augmented Generation (RAG) to specialize the application in specific subjects (the unquantized original model can be found at llama.com). 
 
 Features
 
@@ -9,7 +9,7 @@ Features
   3. The application uses multiple agents created with Llama 3.1 model to ensure accurate and precise results.
   4. A web search function that broadens the scope of the AI assistant.
 
-## Running_the_code
+## Running the code
 
 This application was developed using Python 3.12.4 (download python). The python packages required to run this application is listed in the **requirements.txt** file.
 
@@ -28,3 +28,5 @@ or
 cd /file_path
 python main_api.py
 ```
+
+## Adding resources to define the scope of the AI assistant 
