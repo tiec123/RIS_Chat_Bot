@@ -35,6 +35,6 @@ You will need to create a **data** directory in the same directory you saved the
 
 ### Adding pdfs form UI
 
-![Screenshot (15)]("https://github.com/user-attachments/assets/4ddc62db-7d7e-4389-a406-7abb11cdfdc6" = 250x250)
+![Screenshot (15)](https://github.com/user-attachments/assets/4ddc62db-7d7e-4389-a406-7abb11cdfdc6 | width = 100 | height = 100)
 
 
