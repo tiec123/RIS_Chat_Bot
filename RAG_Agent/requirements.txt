@@ -12,3 +12,4 @@ tiktoken
 gpt4all
 langchain_chroma
 pypdf
+tkinter
