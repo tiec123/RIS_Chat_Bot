@@ -1,0 +1,2 @@
+Patient ID,Name,Gender,Age,Address,Scheduled Date,Appointment Date,Discount,Hypertension,Diabetes,Alcoholism,Handicap,WaitingTime,No_show
+1234,Nimal,1,54,Kandy,10/9/24,10/11/24,0,1,0,0,0,48.0,0.1597727869711072
