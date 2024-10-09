@@ -11,8 +11,17 @@ Features
 
 ## Running_the_code
 
-This application was developed using Python 3.12.4 (download python). The python packages required to run this application is listed in the requirements file.
+This application was developed using Python 3.12.4 (download python). The python packages required to run this application is listed in the **requirements.txt** file.
 
 ```
 pip install -r requirements.txt
+```
+
+You can run the **main.py** code which dose not use a UI or you can run the **main_api.py** code.
+
+```
+cd /file_path
+python main.py
+or
+python main_api.py
 ```
