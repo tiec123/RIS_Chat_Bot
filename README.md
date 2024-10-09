@@ -22,6 +22,9 @@ You can run the **main.py** code which dose not use a UI or you can run the **ma
 ```
 cd /file_path
 python main.py
+```
 or
+```
+cd /file_path
 python main_api.py
 ```
