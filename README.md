@@ -31,4 +31,7 @@ python main_api.py
 
 ## Adding resources to define the scope of the AI assistant 
 
+You will need to create a **data** directory in the same directory you saved the codes for this application. If your using the **main_api.py** code you can simply add files to the data directly from the UI otherwise if your using the **main.py** code you will need to manually add the required resources to the **data** directory (the resources need to be in pdf format). As for the URLs similarly you can use the UI or manually edit the **urls.txt** file to add resources in URL form.
+
+
 
