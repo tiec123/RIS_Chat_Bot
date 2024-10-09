@@ -44,7 +44,8 @@ You will need to create a **data** directory in the same directory you saved the
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/68e787ca-7dc3-4656-9ca7-1fd0f4b79b15" alt="Screenshot (15)" width="400" height="200">
-  <img src="https://github.com/user-attachments/assets/b6753712-2690-4d5e-9c01-a70d256dae32" alt="Screenshot (15)" width="400" height="200">
+  <img src="https://github.com/user-attachments/assets/c78f7fbe-ff0e-4265-9eda-3222b9bbb542" alt="Screenshot (15)" width="400" height="200">
+  <img src="https://github.com/user-attachments/assets/c78f7fbe-ff0e-4265-9eda-3222b9bbb542" alt="Screenshot (15)" width="400" height="200">
 </div>
 
 
