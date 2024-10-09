@@ -43,9 +43,9 @@ You will need to create a **data** directory in the same directory you saved the
 ### Adding URLs form UI
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/bd537432-c760-4598-b50d-d4e3811b7d39" alt="Screenshot (15)" width="200" height="200">
-  <img src="https://github.com/user-attachments/assets/56a7b95d-35f6-4b7a-b70e-0113f9781881" alt="Screenshot (15)" width="200" height="200">
-  <img src="https://github.com/user-attachments/assets/12514f9a-9507-428f-a8cd-b552c99b06f1" alt="Screenshot (15)" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/bd537432-c760-4598-b50d-d4e3811b7d39" alt="Screenshot (15)" width="300" height="200">
+  <img src="https://github.com/user-attachments/assets/56a7b95d-35f6-4b7a-b70e-0113f9781881" alt="Screenshot (15)" width="300" height="200">
+  <img src="https://github.com/user-attachments/assets/12514f9a-9507-428f-a8cd-b552c99b06f1" alt="Screenshot (15)" width="300" height="200">
 </div>
 
 
