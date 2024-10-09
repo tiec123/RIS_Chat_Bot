@@ -48,5 +48,11 @@ You will need to create a **data** directory in the same directory you saved the
   <img src="https://github.com/user-attachments/assets/12514f9a-9507-428f-a8cd-b552c99b06f1" alt="Screenshot (15)" width="300" height="200">
 </div>
 
+## Using the UI
 
+You can type your quarries in the dialog box of the UI and click the send button. The context size for this application is 4096 tokens roughly equate to about 3000 words. This is important as if you enter a quarry larger than the context size the application will return an error. The UI also allows you to save your chats in a location of your choice and even load previous chats.
+
+### Saving chats
+
+### Loading previous chats
 
