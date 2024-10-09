@@ -16,4 +16,8 @@ This application was developed using Python 3.12.4 (download python). The python
 '''
 pip install -r requirements.txt
 '''
+You need to install the following dependencies (in addition to the `requirements.txt` in the root directory of this repository) to run the models:
+```
+pip install torch fairscale fire blobfile
+```
 
