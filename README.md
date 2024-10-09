@@ -11,4 +11,9 @@ Features
 
 ## Running_the_code
 
+This application was developed using Python 3.12.4 (download python). The python packages required to run this application is listed in the requirements file.
+
+'''
+pip install -r requirements.txt
+'''
 
