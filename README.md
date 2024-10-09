@@ -36,16 +36,16 @@ You will need to create a **data** directory in the same directory you saved the
 ### Adding pdfs form UI
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/4ddc62db-7d7e-4389-a406-7abb11cdfdc6" alt="Screenshot (15)" width="500" height="300">
-  <img src="https://github.com/user-attachments/assets/b6753712-2690-4d5e-9c01-a70d256dae32" alt="Screenshot (15)" width="500" height="300">
+  <img src="https://github.com/user-attachments/assets/d49d2d5c-f6a9-4764-b09e-2c28a494ed86" alt="Screenshot (15)" width="500" height="300">
+  <img src="https://github.com/user-attachments/assets/5405d9d8-2486-436f-82d7-5530425e1f42" alt="Screenshot (15)" width="500" height="300">
 </div>
 
 ### Adding URLs form UI
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/68e787ca-7dc3-4656-9ca7-1fd0f4b79b15" alt="Screenshot (15)" width="400" height="200">
-  <img src="https://github.com/user-attachments/assets/c78f7fbe-ff0e-4265-9eda-3222b9bbb542" alt="Screenshot (15)" width="400" height="200">
-  <img src="https://github.com/user-attachments/assets/c78f7fbe-ff0e-4265-9eda-3222b9bbb542" alt="Screenshot (15)" width="400" height="200">
+  <img src="https://github.com/user-attachments/assets/bd537432-c760-4598-b50d-d4e3811b7d39" alt="Screenshot (15)" width="400" height="200">
+  <img src="https://github.com/user-attachments/assets/56a7b95d-35f6-4b7a-b70e-0113f9781881" alt="Screenshot (15)" width="400" height="200">
+  <img src="https://github.com/user-attachments/assets/12514f9a-9507-428f-a8cd-b552c99b06f1" alt="Screenshot (15)" width="400" height="200">
 </div>
 
 
